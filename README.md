@@ -6,9 +6,9 @@ Aspiring developer, enthusiastic about tech, and a philosopher in my spare time.
 
 - 🔭 I’m currently working on improving my programming skills  
 - 🌱 I’m currently learning English, Python, C#, and PHP  
-- 💬 Ask me about Python  
-- 📫 How to contact me:  
+- 💬 Ask me about Python   
 - 😄 Pronouns: He/Him
+- 📫 How to contact me: 
 
 📷 [Instagram][instagram] **|** 👔 [LinkedIn][linkedin]
 
