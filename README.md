@@ -5,7 +5,7 @@
 Aspiring developer, enthusiastic about tech, and a philosopher in my spare time.
 
 - 🔭 I’m currently working on improving my programming skills  
-- 🌱 I’m currently learning English, Python, C#, and PHP  
+- 🌱 I’m currently learning English, Python, C#, Java, and PHP  
 - 💬 Ask me about Python   
 - 😄 Pronouns: He/Him
 - 📫 How to contact me: 
@@ -18,4 +18,4 @@ Aspiring developer, enthusiastic about tech, and a philosopher in my spare time.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
