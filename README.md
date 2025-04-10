@@ -14,3 +14,8 @@ Aspiring developer, enthusiastic about tech, and a philosopher in my spare time.
 
 [instagram]: https://www.instagram.com/baroli03  
 [linkedin]: https://linkedin.com/in/eduardo-baroli-229b56316
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
