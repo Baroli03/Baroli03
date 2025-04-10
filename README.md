@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&size=40&lines=Baroli03;Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+em+progresso...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&size=35&lines=Baroli03;Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+em+progresso...)
 
 
 <!--
