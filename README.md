@@ -61,8 +61,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Baroli03&show_icons=true&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Baroli03&show_icons=true&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000&random=1" />
 </p>
+
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baroli03&theme=github-compact&color=00FF00&line=32CD32&bg_color=000000&area=true" />
