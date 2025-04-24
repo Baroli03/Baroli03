@@ -65,10 +65,6 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Baroli03&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
-</p>
-
-<p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baroli03&theme=github-compact&color=00FF00&line=32CD32&bg_color=000000&area=true" />
 </p>
 
