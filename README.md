@@ -49,10 +49,10 @@
 
 <p align="center">
     <a href="https://github.com/Baroli03/Casamento-Site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroli03&repo=Python_Estudos&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroli03&repo=Casamento-Site&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
     </a>
     <a href="https://github.com/Baroli03/FaturaExpress">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroli03&repo=Projeto-Web-Site&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroli03&repo=FaturaExpress&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
     </a>
 </p>
 
