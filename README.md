@@ -1,76 +1,63 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
-
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Baroli03</h1>
-
+<h1 align="center">Eduardo Baroli</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Learning%20Tech-00FF00?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Dev%20in%20Progress-006400?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Back%20End-32CD32?style=flat" />
+<strong>Desenvolvedor Back-End & Analista de Dados em Formação</strong>
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Baroli03&label=Profile%20Views&color=00FF00&style=flat" />
+Apaixonado por resolver problemas, construir soluções eficientes e transformar dados em insights.
 </p>
 
----
-
-## ✨ About Me
-
-- 🔭 I’m currently working on improving my programming skills  
-- 🌱 Learning: Python, C#, Java, PHP  
-- 💬 Ask me about Python  
-- ⚡ Fun fact: I'm a developer and a bit of a philosopher  
-- 😄 Pronouns: He/Him  
-- 📫 Reach me here:
+<p align="center">
+<a href="https://linkedin.com/in/eduardo-baroli-229b56316" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:seu-email-aqui@exemplo.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+</a>
+</p>
+🚀 Principais Competências
 
 <p align="center">
-    <a href="https://www.instagram.com/baroli03">
-        <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/eduardo-baroli-229b56316">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+<!-- Data Analysis -->
+<a href="https://www.python.org" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+</a>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
+</a>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy">
+</a>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL">
+</a>
+
+<!-- Back-End -->
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/.NET-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Ddotnet%26logoColor%3Dwhite" alt=".NET">
+</a>
+<a href="https://www.php.net" target="_blank">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</a>
+
+<!-- Tools & Others -->
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+</a>
+</p>
+📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBaroli03%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas de Eduardo Baroli no GitHub"/>
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBaroli03%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight" alt="Linguagens mais usadas por Eduardo Baroli"/>
 </p>
 
----
-
-## 🧠 Tech Stack
-
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
----
-
-## 📌 Top Projects
-
-<p align="center">
-    <a href="https://github.com/Baroli03/estudos-biblioteca-pandas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroli03&repo=estudos-biblioteca-pandas&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/Baroli03/estudos-biblioteca-NumPy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baroli03&repo=estudos-biblioteca-NumPy&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000" />
-    </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Baroli03&show_icons=true&theme=dark&title_color=00FF00&text_color=ffffff&bg_color=000000&random=1" />
-</p>
-
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baroli03&theme=github-compact&color=00FF00&line=32CD32&bg_color=000000&area=true" />
-</p>
-
----
-
-<p align="center">
-    <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DBaroli03%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue" alt="Gráfico de Atividade de Eduardo Baroli"/>
 </p>
